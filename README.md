@@ -3,6 +3,9 @@ Official Implementation of Half-Hop: A graph upsampling approach for slowing dow
 
 Half-Hop is plug-and-play, and works with a wide range of datasets, architectures, and learning objectives!
 
+![](overview.png)
+
+
 Example usage:
 ```python3
 from halfhop import HalfHop
