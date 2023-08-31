@@ -25,6 +25,7 @@ If you find the code useful for your research, please consider citing our work:
 @article{azabou2023half,
   title={Half-Hop: A graph upsampling approach for slowing down message passing},
   author={Azabou, Mehdi and Ganesh, Venkataramana and Thakoor, Shantanu and Lin, Chi-Heng and Sathidevi, Lakshmi and Liu, Ran and Valko, Michal and Veli{\v{c}}kovi{\'c}, Petar and Dyer, Eva L},
+  journal={Proceedings of the International Conference on Machine Learning (ICML)}
   year={2023}
 }
 ```
