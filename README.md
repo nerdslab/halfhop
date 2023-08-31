@@ -1,5 +1,5 @@
 # Half-Hop
-Official Implementation of Half-Hop: A graph upsampling approach for slowing down message passing [Paper](https://openreview.net/forum?id=lXczFIwQkv)
+Official Implementation of [Half-Hop: A graph upsampling approach for slowing down message passing](https://openreview.net/forum?id=lXczFIwQkv) (ICML 2023)
 
 Half-Hop is plug-and-play, and works with a wide range of datasets, architectures, and learning objectives!
 
